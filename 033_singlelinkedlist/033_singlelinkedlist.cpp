@@ -20,3 +20,4 @@ void addNode() {
 	nodeBaru->noMhs = nim;
 	nodeBaru->name = nama;
 
+	
